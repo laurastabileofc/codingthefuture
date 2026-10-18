@@ -7,7 +7,8 @@ Landing page institucional da **Coding the Future**, empresa fictícia de desenv
 ## 🌐 Acesso ao Site
 
 O site está publicado e disponível em:
-**[https://codingthefuturesoftwares.netlify.app](https://codingthefuturesoftwares.netlify.app)**
+- **GitHub Pages:** **[https://laurastabileofc.github.io/codingthefuture/](https://laurastabileofc.github.io/codingthefuture/)**
+- **Netlify:** **[https://codingthefuturesoftwares.netlify.app](https://codingthefuturesoftwares.netlify.app)**
 
 ---
 
