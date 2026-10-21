@@ -406,7 +406,7 @@ address {
 /* Equipe (Isabelli e Laura) */
 .team-section {
   padding-block: var(--space-6);
-  background-color: var(--color-background);
+  background-color: var(--color-surface);
 }
 
 .team-grid {
@@ -419,7 +419,7 @@ address {
   display: flex;
   align-items: center;
   gap: var(--space-3);
-  background-color: var(--color-surface);
+  background-color: var(--color-background);
   padding: var(--space-3);
   border-radius: var(--cut-folder);
 }
