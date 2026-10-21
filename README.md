@@ -30,8 +30,8 @@ O site está publicado e disponível em:
 
 | Integrante | Atuação |
 | :--- | :--- |
-| **Isabelli** | Back-end |
-| **Laura** | Front-end |
+| **Isabelli** | Analista e Back-end |
+| **Laura** | Gestora e Front-end |
 
 ---
 
