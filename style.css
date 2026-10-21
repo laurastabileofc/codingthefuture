@@ -459,7 +459,7 @@ address {
 /* Contato */
 .contact-section {
   padding-block: var(--space-6);
-  background-color: var(--color-surface);
+  background-color: var(--color-background);
 }
 
 .contact-grid {
@@ -504,7 +504,7 @@ a.contact-value:focus-visible {
 }
 
 .contact-qr-box {
-  background-color: var(--color-background-dark);
+  background-color: var(--color-surface);
   padding: var(--space-4);
   border-radius: var(--cut-folder);
   text-align: center;
